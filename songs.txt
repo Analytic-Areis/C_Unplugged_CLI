@@ -1,0 +1,48 @@
+01|Blinding Lights|The Weeknd|200
+02|We Don’t Talk Anymore|Charlie Puth & Selena Gomez|218
+03|Sweet Dreams|Eurythmics|217
+04|Sunroof|Nicky Youre & Dazy|163
+05|Smooth Criminal|Michael Jackson|258
+06|She Knows|J. Cole|297
+07|Run|OneRepublic|168
+08|Roses (Imanbek Remix)|SAINt JHN|177
+09|Rock With You|Michael Jackson|220
+10|Rasputin|Majestic & Boney M|186
+11|Radioactive|Imagine Dragons|187
+12|One Of The Girls|The Weeknd, Jennie & Lily-Rose Depp|245
+13|One Dance|Drake|174
+14|Numb|Marshmello & Khalid|156
+15|Nothing Breaks Like a Heart|Mark Ronson & Miley Cyrus|217
+16|No Love|Eminem & Lil Wayne|300
+17|No Love|Shubh|170
+18|New Rules|Dua Lipa|209
+19|Natural|Imagine Dragons|189
+20|Mood|24kGoldn & Iann Dior|141
+21|Made You Look|Meghan Trainor|134
+22|Life Goes On|Oliver Tree|162
+23|I Like The Way You Kiss Me|Artemas|143
+24|I Ain’t Worried|OneRepublic|148
+25|End of Beginning|Djo|159
+26|Dancin|Aaron Smith|177
+27|Come and Get Your Love|Redbone|206
+28|Closer|The Chainsmokers & Halsey|245
+29|Beat It|Michael Jackson|258
+30|Another Love|Tom Odell|244
+31|Boulevard of Broken Dreams|Green Day|261
+32|Drag Me Down|One Direction|192
+33|The Real Slim Shady|Eminem|284
+34|Gangnam Style|PSY|219
+35|Kesariya|Arijit Singh|232
+36|Tum Hi Ho|Arijit Singh|248
+37|Naina|Diljit Dosanjh, Badshah & Raj Ranjodh|180
+38|Lungi Dance|Yo Yo Honey Singh|275
+39|Nashe Si Chadh Gayi|Arijit Singh & Caralisa Monteiro|245
+40|Adiga Adiga|Sid Sriram|209
+41|Life Of Ram|Pradeep Kumar|364
+42|My Love Is Gone|Devi Sri Prasad|289
+43|Undiporaadhey|Sid Sriram|174
+44|Butta Bomma|Armaan Malik|208
+45|Ramulo Ramula|Anurag Kulkarni|230
+46|Samajavaragamana|Sid Sriram|242
+47|Naatu Naatu|Rahul Sipligunj & Kaala Bhairava|220
+48|Believer|Imagine Dragons|300

@@ -1,0 +1,20 @@
+Printed All Songs
+Created album hello (id: 1)
+Added song id 1 to album SNo.hello
+Added song id 2 to album SNo.hello
+Added song id 3 to album SNo.hello
+Printed All Albums
+Printed Album details hello
+Removed Song 3 from Album with SNo. 1
+Printed Album details hello
+Added song id 1 to album SNo.hello
+Removed Song 6 from Album with SNo. 1
+Added Album 'hello' at the end of playlist
+Added Song 13 at the next of playlist
+Started Playback
+Played Next
+Played Next
+Played Next
+Played Next
+Played Previous
+User viewed logs
